@@ -1,0 +1,6 @@
+[package]
+name = "spiny"
+version = "0.1.0"
+authors = ["Shuhei Hiya <syuhei176@gmail.com>"]
+
+[dependencies]
